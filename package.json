@@ -14,8 +14,7 @@
   "main": "index",
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script -C test.js",
-    "prepublish": "coffee -c lib/*.coffee",
-    "postinstall": "coffee -c lib/*.coffee"
+    "prepublish": "coffee -c lib/*.coffee"
   },
   "keywords": [
     "mongodb"
