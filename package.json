@@ -1,7 +1,7 @@
 {
   "name": "mongodb-wrapper",
   "description": "Exactly-like-the-console wrapper for node-mongodb-native",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "i.TV <sean@i.tv>",
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
     "node": ">= 0.6.0"
   },
   "dependencies": {
-    "mongodb": "1.2.x",
+    "mongodb": "1.3.x",
     "async": "~0.1.22"
   },
   "devDependencies": {
